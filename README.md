@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @z00mggwp
-- 👀 I’m interested in Stream
+- 👀 I’m interested in JavaScript/PHP
 - 🌱 I’m currently learning HTML,C#
 - 💞️ I’m looking to collaborate on Everyone (:
 - 📫 How to reach me discord:engindavut mail:z00mbussines@hotmail.com
